@@ -1,0 +1,17 @@
+{
+  "name": "mobilitas-apihub-vpclambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "lodash": "^4.17.11",
+    "qs": "^6.4.0",
+    "yarn": "^1.15.2"
+  }
+}
